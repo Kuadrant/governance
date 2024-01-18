@@ -1,2 +1,2 @@
 # governance
-Repository to store all governance related files and documents
+The purpose of this repository is to store all files and documents related to governance
