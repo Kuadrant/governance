@@ -1,4 +1,6 @@
-# Maintainers of Kuadrant
+# Kuadrant Maintainers
+
+## Core Maintainers
 
 | Name                | Company  | GitHub          |
 |---------------------|----------|-----------------|
@@ -19,5 +21,8 @@
 | Phil Brookes        | Red Hat  | philbrookes     |
 | Rachel Lawton       | Red Hat  | R-Lawton        |
 
+## Component Specific Maintainers
 
-
+* [Limitador](https://github.com/Kuadrant/limitador/blob/main/MAINTAINERS.md)
+* [Authorino](https://github.com/Kuadrant/authorino/blob/main/MAINTAINERS.md)
+* [DNS Operator](https://github.com/Kuadrant/dns-operator/blob/main/MAINTAINERS.md)
