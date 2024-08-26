@@ -20,7 +20,7 @@ The Kuadrant and its leadership embrace the following values:
   contributions, which will be considered on their merits.
 
 * Community over Product or Company: Sustaining and growing our community takes
-  priority over shipping code or sponsors' organizational goals.  Each
+  priority over shipping code or sponsors' organizational goals. Each
   contributor participates in the project as an individual.
 
 * Inclusivity: We innovate through different perspectives and skill sets, which
